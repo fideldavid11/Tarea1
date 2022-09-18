@@ -1,0 +1,27 @@
+<HTML>
+<HEAD>
+<TITLE>Mi primera pagina</TITLE>
+</HEAD>
+<BODY>
+<P>Mi nombre es Fidel David Peguero Pineda</P>
+<br>
+<p>Este soy yo</p>
+<img src="img/295321147_3380930025524292_9108435958543543458_n.jpg" width="720" height="717" alt="">
+<br>
+<p>Mi telefono es <u>(809)723-8372</u></p>
+<br>
+<p>Vivo Justamente aqui</p>
+<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1892.1880175024864!2d-69.99068175041073!3d18.46661859714426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ea561d9c9637845%3A0x649870a3ed2b343d!2sManolo%20Tav%C3%A1rez%20Justo%2021%2C%20Santo%20Domingo!5e0!3m2!1ses!2sdo!4v1663519064793!5m2!1ses!2sdo" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
+<p>Correo electronico: <u>fideldavid06@hotmail.com</u></p>
+<br>
+<p>Mis hobbis son: leer, ver series, viajar y caminar</p>
+<br>
+<a href="https://www.instagram.com/fideldavid_x/">Este es mi Instagram</a>
+y este <a href="https://web.facebook.com/NORMALPEOPLESCAREMExx/">es mi facebook</a>
+<br>
+<a href="https://www.youtube.com/watch?v=l2xNbQZzOeg">Video Ramdom</a>
+
+</BODY>
+</HTML>
